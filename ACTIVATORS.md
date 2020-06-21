@@ -67,3 +67,21 @@ Controller Addresses: 10795C70, 1F5F7E7C, 1F5F7F6C, 1F5F805C, and 1F5F814C
 |00040000| Left Stick Left  |
 |00100000| Left Stick Down  |
 |00020000|Left Stick Button |
+
+## _Wiimote Button Activators_
+Controller Addresses: 10795C10 (so far known)
+
+| Value  |    Keypress      |
+|--------|------------------|
+|00000800|        A         |
+|00000400|        B         |
+|00001000|        -         |
+|00000010|        +         |
+|00008000|       HOME       |
+|00000200|         1        |
+|00000100|         2        |
+|00000001|    D-Pad Down    |
+|00000002|    D-Pad Up      |
+|00000008|    D-Pad Left    |
+|00000004|    D-Pad Right   |
+
